@@ -1,0 +1,1 @@
+Stupid little script that lets me spin articles.
